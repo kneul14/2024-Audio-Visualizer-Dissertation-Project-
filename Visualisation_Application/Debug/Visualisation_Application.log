@@ -1,0 +1,89 @@
+﻿  Application.cpp
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(6,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(80,24): warning C4101: 'outputParameters': unreferenced local variable
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(144,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(144,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(145,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(145,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(146,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(146,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(147,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(147,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(152,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(152,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(153,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(153,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(154,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(154,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(155,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(155,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(160,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(160,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(161,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(161,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(162,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(162,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(163,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(163,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(170,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(170,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(171,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(171,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(172,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(172,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(173,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(173,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(179,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(179,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(180,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(180,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(181,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(181,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(182,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(182,13): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(187,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(187,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(188,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(188,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(189,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(189,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(190,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(190,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(195,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(195,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(196,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(196,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(197,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(197,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(198,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(198,14): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(204,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(204,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(205,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(205,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(206,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(206,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(207,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Application.cpp(207,15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(platform.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(null_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(null_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_module.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_module.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+  Visualisation_Application.vcxproj -> D:\Kneul\6000CEM--Dissertation-Audio-Visualisation-Software\glfw\Visualisation_Application\Debug\Visualisation_Application.exe

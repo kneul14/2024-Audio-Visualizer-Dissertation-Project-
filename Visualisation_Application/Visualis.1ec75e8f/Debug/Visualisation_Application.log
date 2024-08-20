@@ -1,0 +1,6 @@
+﻿  Application.cpp
+D:\University Y3\6000CEM--Dissertation-Audio-Visualisation-Software\THIS ONE\Visualisation_Application\Application.cpp(8,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\University Y3\6000CEM--Dissertation-Audio-Visualisation-Software\THIS ONE\Visualisation_Application\Application.cpp(109,24): warning C4101: 'outputParameters': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  Visualisation_Application.vcxproj -> D:\University Y3\6000CEM--Dissertation-Audio-Visualisation-Software\THIS ONE\Visualisation_Application\Debug\Visualisation_Application.exe
